@@ -1,0 +1,48 @@
+CHANGES IN VERSION 0.99.9
+-------------------------
+ o In pxref, dealing with cases without any or pending publications
+   [2014-04-01 Tue]
+
+CHANGES IN VERSION 0.99.8
+-------------------------
+ o fix leftover issues from renaming package (d.tenenbaum)
+   [2014-03-30 Sun]
+
+CHANGES IN VERSION 0.99.7
+-------------------------
+ o renamed to rpx due to CRAN name clash [2014-03-28]
+
+CHANGES IN VERSION 0.99.6
+-------------------------
+ o more typos in vignette [2014-03-12 Wed] 
+
+CHANGES IN VERSION 0.99.5
+-------------------------
+ o Suggestions, biocView and typos reported by Nate Hayden
+   [2014-03-12 Wed]
+ o added Runit test [2014-03-12 Wed] 
+ o use ae fonts in vignette [2014-03-12 Wed] 
+
+CHANGES IN VERSION 0.99.4
+-------------------------
+ o Update reference in man and vignette [2014-03-11 Tue]
+ o Typos in vignette [2014-03-11 Tue]
+
+CHANGES IN VERSION 0.99.3
+-------------------------
+ o reverting pxannounced to empty signature to fix warning
+ [2014-03-05 Wed]
+
+CHANGES IN VERSION 0.99.2
+-------------------------
+ o replacing download.file by getURL to download annoucement rss over
+   https <2014-03-05 Wed>
+
+CHANGES IN VERSION 0.99.1
+-------------------------
+ o fixing pxfiles ending by \r on Windows [2014-03-05 Wed]
+
+CHANGES IN VERSION 0.99.0
+-------------------------
+ o added a vignette [2014-03-05 Wed]
+ o handle invalid identifiers [2014-03-05 Wed]
